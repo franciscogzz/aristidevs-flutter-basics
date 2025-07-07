@@ -15,6 +15,7 @@ class ImageExample extends StatelessWidget {
         Image.network(
           'https://docs.flutter.dev/assets/images/dash/dash-fainting.gif',
         ),
+        Image.asset('assets/images/flutter_dash.jpg'),
         Spacer(),
       ],
     );

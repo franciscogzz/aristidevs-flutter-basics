@@ -1,3 +1,3 @@
-# flutter_basics
+# Flutter Expert
 
-A new Flutter project.
+Curso de Flutter desde CERO impartido por [@AristiDevs](https://github.com/ArisGuimera/)
